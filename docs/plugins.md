@@ -1,5 +1,7 @@
 ## Core
 
+Any plugin that may cause aliasing artifacts should support optional oversampling (ADAA?).
+
 maybe - tape stop, drum loop chopper
 
 ### 1. JigEQ : Parametric EQ
