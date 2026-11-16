@@ -12,6 +12,8 @@ Documentation will be developed concurrently with the plugins, prepared as markd
 
 First review existing plugins under ~/github/jigdaw
 
+GUI
+
 Any plugin that may cause aliasing artifacts should support optional oversampling (ADAA?).
 maybe - tape stop, drum loop chopper
 
@@ -25,13 +27,23 @@ maybe - tape stop, drum loop chopper
 
 ### 2. JigComp : Multi-band Compressor/Expander
 
+- ~/github/downspout/plugins/trio
+
 ### 3. JigGlue : Master Bus Glue Compressor
+
+- ~/github/downspout/plugins/glue
 
 ### 4. JigLimit : Limiter/Clipper
 
+- ~/github/downspout/plugins/guardian
+
 ### 5. JigTrans : Transient Shaper
 
+- ~/github/downspout/plugins/spliff
+
 ### 6. JigGate : Gate/Noise Reducer
+
+- ~/github/downspout/plugins/silken
 
 ### 7. JigStereo : Stereo Enhancer
 
@@ -41,19 +53,31 @@ maybe - tape stop, drum loop chopper
 
 ### 9. JigVerb : Reverb
 
+- ~/github/downspout/plugins/HeavyVerb
+
 ### JigIR
 
 - reference : ~/github/downspout/plugins/NAM
 
-### 10. JigSpace : Flanger/Phaser
+### 10. JigSpace : Flanger/Phaser/Chorus
+
+- ~/github/downspout/plugins/chorale
 
 ### 11. JigDistort : Saturation/Overdrive/Distortion
 
+- ~/github/downspout/plugins/damiano
+
 ### 12. JigVoc : Vocal Enhancer, De-Esser, Autotune
+
+- ~/github/downspout/plugins/silken
 
 ### 13. JigBass : Bass Enhancer
 
+- ~/github/downspout/plugins/bassops
+
 ### 14. JigHarmony : Harmonizer
+
+?
 
 ## Metering
 
